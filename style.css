@@ -1,0 +1,6 @@
+
+/* Override cmb2 attached posts css height in admin area (too tall) */
+
+.cmb-type-custom-attached-posts .has-thumbnails.connected {
+    height:300px!important;
+}
